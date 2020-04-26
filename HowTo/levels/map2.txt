@@ -1,0 +1,20 @@
+                                       
+       ! 0                      0    x 
+  l    f>0             T        0<f  l 
+fflffffcfffff gggggggggggggggg fffcffff
+  l                                    
+  l         !                          
+> l b     * f               s  s    l <
+ggggggggggg cffff  ffffffffff  ffffflff
+                                    l  
+                   ! %              l  
+>Bl   r       * *  f        s  sbm  l <
+fflffffffff  ffffffc  fffffff  gggggggg
+  l                                    
+  l        !                           
+> l        f>         t    s   s    l <
+ffffffffff cff  ggggggggggggg  ffffflff
+                                    l  
+gggggggg                            l  
+       s @     f        r    r      l  
+fffffffffffffffcfffffffffffffffffffffff
