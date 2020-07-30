@@ -90,3 +90,8 @@ This file is optional.
 
 An ```rain=true``` setting enables rain effect on level.
 
+## Darkness
+
+An ```dark=true``` setting will turn on dark mode: just a small
+part of level around the player is visible.
+
